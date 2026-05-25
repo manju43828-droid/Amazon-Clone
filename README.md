@@ -12,4 +12,3 @@ This project is a mini Amazon-inspired eCommerce application created for learnin
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
